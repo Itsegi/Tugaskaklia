@@ -9,7 +9,7 @@ img {
   height: auto;
 }
 
-.logo{
+.logo {
   height: 300px;
 }
 .App {
@@ -24,7 +24,7 @@ body {
 }
 
 body {
-  background-color: #EEF3FF;
+  background-color: #eef3ff;
 }
 
 nav {
@@ -124,13 +124,13 @@ nav {
 .secondary-button {
   padding: 1rem 2.5rem;
   background-color: #ffff;
-  outline: #2A5CC7;
+  outline: #2a5cc7;
   border: none;
   border-radius: 5rem;
   font-size: 1.1rem;
   cursor: pointer;
   font-weight: 600;
-  color: #2A5CC7;
+  color: #2a5cc7;
   transition: 0.2s;
   display: flex;
   align-items: center;
@@ -141,8 +141,8 @@ nav {
   font-size: 1.5rem;
 }
 .secondary-button:hover {
-  background-color: #2A5CC7;
-  color: #EEF3FF;
+  background-color: #2a5cc7;
+  color: #eef3ff;
 }
 .about-section-container {
   margin-top: 20rem;
@@ -161,7 +161,6 @@ nav {
   left: -150px;
   z-index: -2;
 }
-
 
 .about-section-image-container {
   flex: 0.9;
@@ -238,17 +237,11 @@ nav {
   margin-top: 100px;
   background-color: #233151;
   display: flex;
+  width: 100vw;
   align-items: flex-start;
- 
 }
 .footer-logo-container {
   max-width: 110px;
-}
-.footer-icons {
-  margin-top: 2.5rem;
-  margin-bottom: 2.5rem;
-  margin-left: 40rem;
-  margin-right: 2.5rem;
 }
 .footer-icons svg {
   font-size: 1.5rem;
@@ -260,11 +253,9 @@ nav {
   margin-left: 15px;
 }
 
-.footer-section-one h1{
+.footer-section-one h1 {
   color: #ffffff;
-  margin-top: 40px;
   font-size: 20px;
-  
 }
 .footer-section-two {
   flex: 1;
@@ -332,7 +323,7 @@ nav {
 .work-section-info {
   width: 290px;
   min-height: 350px;
-  background-color: #C0CFEF;
+  background-color: #c0cfef;
   padding: 1rem 2rem;
   display: flex;
   flex-direction: column;
@@ -416,7 +407,7 @@ nav {
   .primary-text-end {
     width: 290px;
     min-height: 350px;
-    background-color: #C0CFEF;
+    background-color: #c0cfef;
     padding: 1rem 2rem;
     display: flex;
     flex-direction: column;
